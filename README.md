@@ -1,5 +1,9 @@
 # Silent
 
+Maintaining, trying to make it compatible with Ghost 3.0, Please stay tuned.
+
+---
+
 The silent theme modified from [Casper](https://github.com/TryGhost/Casper/releases) for [Ghost](http://github.com/tryghost/ghost/).
 
 - Remove "Subscribe" from all page;
