@@ -1,4 +1,26 @@
 {
-  "name": "Silent",
-  "version": "1.2.5"
+  "name": "silent",
+  "description": "A clean and simple Ghost Blog theme.",
+  "version": "1.9.0",
+  "engines": {
+      "ghost-api": "v3"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Craig Hart",
+    "email": "i@craigary.net",
+    "url": "https://craigary.net"
+  },
+  "keywords": [
+    "minimal",
+    "blog",
+    "clean",
+    "ghost",
+    "theme",
+    "ghost-theme"
+  ],
+  "config": {
+      "posts_per_page": 6,
+      "image_sizes": {}
+  }
 }
